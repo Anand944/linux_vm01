@@ -1,5 +1,5 @@
 
-resource "random_id" "randamId"{
+resource "random_id" "randomId"{
   keepers = {
      resource_group = azurerm_resource_group.myterraformGroup.name
   }
