@@ -1,4 +1,4 @@
-resourceGroupName = "rm09"
+resourceGroupName = "resoucegroup01"
 location = "East US"
 vnetname = "myterraformvnet"
 subnetname = "myterraformsubnet"
